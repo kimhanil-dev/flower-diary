@@ -11,5 +11,6 @@ public class FlowerDiary_web3EditorTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;
 		ExtraModuleNames.Add("FlowerDiary_web3");
+
 	}
 }
